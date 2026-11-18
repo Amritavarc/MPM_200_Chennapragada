@@ -2,7 +2,7 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+The hummingbird data set provided raw counts and information regarding injured hummingbirds brought into rehabilitation centers. The code looks at different rehab data to make analysis regarding reason and seasonality of hummingbird admissions. We looked at the structure of the data set. Additionally, we took a small sample of the entire data set and analyzed how many birds were dead or released. We also looked at which rehab centers had the most admissions. We analyzed this based on species, years, dates, etc.
 
 ## Project Organization
 ------------
